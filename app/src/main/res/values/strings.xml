@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Xpens</string>
+    <string name="PURCHASE_DATE_FORMAT">dd/MM/yyyy</string>
+</resources>

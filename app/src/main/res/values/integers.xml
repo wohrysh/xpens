@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="PURCHASE_ENTRY_NDX_ID">0</integer>
+    <integer name="PURCHASE_ENTRY_NDX_DATE">1</integer>
+    <integer name="PURCHASE_ENTRY_NDX_TYPE">2</integer>
+    <integer name="PURCHASE_ENTRY_NDX_DESCR">3</integer>
+    <integer name="PURCHASE_ENTRY_NDX_PRICE">4</integer>
+</resources>
