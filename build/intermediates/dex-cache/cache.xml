@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_17358b1f41c738a71c8d02dc347900196a8512b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-sheets\v4-rev34-1.22.0\27dc879779dce1dc15d68637b8641640f02ed83e\google-api-services-sheets-v4-rev34-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27dc879779dce1dc15d68637b8641640f02ed83e">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-sheets-v4-rev34-1.22.0_ff34bf8fd1d3f55a98a04e3f94bde42146f13ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_a0571a7fb25f65c070e92aafef0baa8f7fb95e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_71e1c03ee4177e12eca2f55eea631cfeb74fe28d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_40b0e008415b96ab72fc905fc23d158ea9939ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1893a766f086b9bfa9a7ebd9fa926fbf73856343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80c9a1049bf8a5c1e1f5cd5c09f93e93f26696f1">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d306b38bffc28dd245e70d112399617160a19569\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_963733dbc981af3920fec8173888bee368428e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_1ee62fe959eb88baea1c33187b587e30343a9756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.1.5_265ebe52c3cef89b14a2d11584e1a03a79249b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_35e4d2080957151d7f577f28d89cf7660244e490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_d747814596730326e1b50bb16f60d8a01bd3c558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_57be79d16bdb082378ed63b856f60d133f71f9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_6e7bfd86a4a10e4a32cc4f548007661658719e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_2520c3204d4859f1dff5448deac3e9d12f89baad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_e4de54a4743e31a54dde06e1fb92e23300c0f875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_4bd9a349544ccc5e8fd07d5462d0704a5ca03680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_4d0add3745be010ba526d8690b0aa10227088edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_c3c2d9460f406a95e4722879682f20d4d3f37370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a3276cc604ced79cb41a9e1ffd559a3d0b80616a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_985ab3af0c4e0de4d9cbe301b95ab36282af3267\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_8ae8a8ac3c75b382f803decc7e6619f38497745e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_9d85da76aa7b5a10294b576e79a535d4a801260a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_projects\Xpens\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a8729989e445bf451d94cdca640dcb5e049374a">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a9204cc316b33beea03e3896b408c4833b0ea7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vova\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="C:\android_projects\Xpens\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_25a5754f994cf47ebc3f641dd2c7a6c6b081c52e\classes.dex" />
+    </item>
+
+</items>
