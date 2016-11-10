@@ -1,0 +1,7 @@
+#Fri Nov 04 01:13:29 EET 2016
+base.0=C\:\\android_projects\\Xpens\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d306b38bffc28dd245e70d112399617160a19569
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\android_projects\\Xpens\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9204cc316b33beea03e3896b408c4833b0ea7f7\\classes.dex
+base.1=C\:\\android_projects\\Xpens\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9204cc316b33beea03e3896b408c4833b0ea7f7
+file.0=C\:\\android_projects\\Xpens\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d306b38bffc28dd245e70d112399617160a19569\\classes.dex
